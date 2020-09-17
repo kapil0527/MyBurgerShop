@@ -1,0 +1,8 @@
+.Orders {
+  width: 100%;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  display: block;
+  color: brown;
+  text-align: center;
+}
